@@ -26,6 +26,7 @@
 [b]Icon:[/b] &lt;icon ID, eg. "settings_suggest" (<a href="https://fonts.google.com/icons?icon.style=Rounded">list</a>)&gt;
 [b]Forum topic (optional):[/b] &lt;forum topic number&gt;
 [b]Username:[/b] &lt;your Scratch username&gt;
+[b]Link:[/b] &lt;link to the site&gt;
 [/quote]</pre>
 </div>
 

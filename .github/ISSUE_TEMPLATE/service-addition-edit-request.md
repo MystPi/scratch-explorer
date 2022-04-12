@@ -20,3 +20,5 @@ assignees: ''
 **Forum topic (optional):** &lt;forum topic number&gt;
 
 **Username:** &lt;your Scratch username&gt;
+
+**Link:** &lt;link to the site&gt;
