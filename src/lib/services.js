@@ -5,7 +5,8 @@ const services = [
     theme: '~positive',
     icon: 'search',
     href: 'https://ocular.jeffalo.net',
-    topic: 446450
+    topic: 446450,
+    username: 'Jeffalo'
   },
   {
     title: 'postpercent',
@@ -13,7 +14,8 @@ const services = [
     theme: '~critical',
     icon: 'leaderboard',
     href: 'https://postpercent.rirurin.com/',
-    topic: 424580
+    topic: 424580,
+    username: 'CatsUnited'
   },
   {
     title: 'Aviate',
@@ -21,7 +23,8 @@ const services = [
     theme: '~cyan',
     icon: 'send',
     href: 'https://aviateapp.eu.org',
-    topic: 594464
+    topic: 594464,
+    username: 'NFlex23'
   },
   {
     title: 'Itinerary',
@@ -30,7 +33,8 @@ const services = [
     theme: '~neutral',
     icon: 'event',
     href: 'https://itinerary.eu.org/',
-    topic: 576248
+    topic: 576248,
+    username: 'Looky1173'
   },
   {
     title: 'Magnifier',
@@ -39,7 +43,8 @@ const services = [
     theme: '~gray',
     icon: 'loupe',
     href: 'https://magnifier.potatophant.net/',
-    topic: 513823
+    topic: 513823,
+    username: 'potatophant'
   },
   {
     title: 'Scratory',
@@ -48,7 +53,8 @@ const services = [
     theme: '~blue',
     icon: 'history',
     href: 'https://scratory.vercel.app/',
-    topic: 518860
+    topic: 518860,
+    username: '9gr'
   },
   {
     title: 'tosh',
@@ -57,7 +63,8 @@ const services = [
     theme: '~yellow',
     icon: 'code',
     href: 'https://tosh.blob.codes/',
-    topic: 192915
+    topic: 192915,
+    username: 'blob8108'
   },
   {
     title: 'Leopard',
@@ -66,7 +73,8 @@ const services = [
     theme: '~indigo',
     icon: 'javascript',
     href: 'https://leopardjs.com/',
-    topic: 420162
+    topic: 420162,
+    username: 'PullJosh'
   },
   {
     title: 'Scratch Profiler',
@@ -75,7 +83,8 @@ const services = [
     theme: '~indigo',
     icon: 'person',
     href: 'https://scratchprofiler.vercel.app/',
-    topic: 534440
+    topic: 534440,
+    username: 'NFlex23'
   },
   {
     title: 'ScratchBackup',
@@ -84,7 +93,8 @@ const services = [
     theme: '~purple',
     icon: 'backup',
     href: 'https://scratchbackup.github.io/',
-    topic: 537796
+    topic: 537796,
+    username: 'ScolderCreations'
   },
   {
     title: 'Scratchinfo',
@@ -93,7 +103,8 @@ const services = [
     theme: '~sky',
     icon: 'info',
     href: 'https://scratchinfo.vercel.app/',
-    topic: 549251
+    topic: 549251,
+    username: 'god286'
   },
   {
     title: 'ScratchTester',
@@ -102,7 +113,8 @@ const services = [
     theme: '~slate',
     icon: 'bug_report',
     href: 'https://scratchtester-v2.kccuber.repl.co/',
-    topic: 554264
+    topic: 554264,
+    username: 'kccuber'
   },
   {
     title: 'ScratchStats',
@@ -110,7 +122,8 @@ const services = [
     type: 'Community',
     theme: '~blue',
     icon: 'trending_up',
-    href: 'https://scratchstats.com/'
+    href: 'https://scratchstats.com/',
+    username: 'World_Languages'
   },
   {
     title: 'Turbowarp',
@@ -118,7 +131,8 @@ const services = [
     type: 'Projects',
     theme: '~red',
     icon: 'speed',
-    href: 'https://turbowarp.org/'
+    href: 'https://turbowarp.org/',
+    username: 'GarboMuffin'
   },
   {
     title: 'MyScratchPage',
@@ -127,7 +141,8 @@ const services = [
     theme: '~blue',
     icon: 'contact_page',
     href: 'https://jaydendev.github.io/MyScratchPage/',
-    topic: 590555
+    topic: 590555,
+    username: 'MagicCrayon9342'
   },
   {
     title: 'Project Explorer',
@@ -136,7 +151,8 @@ const services = [
     theme: '~violet',
     icon: 'workspaces',
     href: 'https://cst1229.github.io/project-explorer/',
-    topic: 554191
+    topic: 554191,
+    username: 'CST1229'
   }
 ];
 
