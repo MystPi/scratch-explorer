@@ -13,7 +13,7 @@
     Either create a new
     <a href="https://github.com/mystpi/scratch-explorer/issues/new">issue</a>
     on the GitHub repository or leave a post on Scratch Explorer's
-    <a href="/#">forum topic</a>. You should use this template for your post:
+    <a href="https://scratch.mit.edu/discuss/topic/595985/">forum topic</a>. You should use this template for your post:
     (If you're editing your service, you can leave out any items and they will
     stay as they are.)
   </p>
