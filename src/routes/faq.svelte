@@ -11,7 +11,7 @@
   <h2>How do I submit/edit my service?</h2>
   <p>
     Either create a new
-    <a href="https://github.com/mystpi/scratch-explorer/issues/new">issue</a>
+    <a href="https://github.com/MystPi/scratch-explorer/issues/new?assignees=&labels=&template=service-addition-edit-request.md&title=Service+Addition%2FEdit+Request%3A+%5BNAME%5D">issue</a>
     on the GitHub repository or leave a post on Scratch Explorer's
     <a href="https://scratch.mit.edu/discuss/topic/595985/">forum topic</a>. You should use this template for your post:
     (If you're editing your service, you can leave out any items and they will
