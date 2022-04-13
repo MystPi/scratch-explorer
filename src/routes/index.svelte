@@ -10,7 +10,7 @@
 <Header></Header>
 
 <h1 id="explore" class="heading">Explore</h1>
-<h3 class="subheading">Want to submit or edit your site? Head to the <a href="/faq" class="underline">FAQs</a> page to get started.</h3>
+<h3 class="subheading">Want to submit or edit your service? Head to the <a href="/faq" class="underline">FAQs</a> page to get started.</h3>
 
 {#each Object.entries(categories) as [letter, services]}
   <Category letter={letter.toUpperCase()}>

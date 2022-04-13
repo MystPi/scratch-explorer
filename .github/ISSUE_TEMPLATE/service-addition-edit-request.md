@@ -9,7 +9,7 @@ assignees: ''
 
 **Name:** &lt;name of service&gt;
 
-**For:** &lt;forums, comments, community, etc.&gt;
+**For:** &lt;forums, library, community, etc.&gt;
 
 **Theme color:** &lt;Tailwind CSS color name, eg. "violet" ([list](https://tailwindcss.com/docs/customizing-colors))&gt;
 

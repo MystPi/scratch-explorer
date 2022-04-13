@@ -20,7 +20,7 @@
   <pre>[quote]
 [b]Service &lt;Addition / Edit&gt; Request[/b]
 [b]Name:[/b] &lt;name of service&gt;
-[b]For:[/b] &lt;forums, comments, community, etc.&gt;
+[b]For:[/b] &lt;forums, library, community, etc.&gt;
 [b]Theme color:[/b] &lt;Tailwind CSS color name, eg. "violet" (<a href="https://tailwindcss.com/docs/customizing-colors">list</a>)&gt;
 [b]Description:[/b] &lt;description&gt;
 [b]Icon:[/b] &lt;icon ID, eg. "settings_suggest" (<a href="https://fonts.google.com/icons?icon.style=Rounded">list</a>)&gt;
@@ -43,6 +43,11 @@
   <h2>My site is already on Scratch Explorer and I want to change it!</h2>
   <p>
     Just follow the instructions above to edit your service.
+  </p>
+  <h2>Can I add my library?</h2>
+  <p>
+    Yup, just put 'Library' for the 'For' option. A link to its GitHub
+    repository is acceptable for the 'Link' option.
   </p>
   <h2>Do you have to pay for any services?</h2>
   <p>
