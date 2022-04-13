@@ -140,7 +140,7 @@ const services = [
     type: 'Community',
     theme: '~blue',
     icon: 'contact_page',
-    href: 'https://jaydendev.github.io/MyScratchPage/',
+    href: 'https://jdev.eu.org/MyScratchPage',
     topic: 590555,
     username: 'MagicCrayon9342'
   },
