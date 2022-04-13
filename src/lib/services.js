@@ -163,6 +163,16 @@ const services = [
     href: 'https://github.com/Chiroyce1/scratch-user-data/',
     topic: 542409,
     username: 'Chiroyce'
+  },
+  {
+    title: 'ScratchConnect',
+    description: 'Python library to connect the Scratch API and perform many more actions.',
+    type: 'Library',
+    theme: '~lime',
+    icon: 'link',
+    href: 'https://github.com/Sid72020123/scratchconnect',
+    topic: 553038,
+    username: 'Sid72020123'
   }
 ];
 
