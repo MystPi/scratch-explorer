@@ -173,6 +173,15 @@ const services = [
     href: 'https://github.com/Sid72020123/scratchconnect',
     topic: 553038,
     username: 'Sid72020123'
+  },
+  {
+    title: 'Forkphorus',
+    description: 'Run Scratch 3, 2, and 1 projects really fast by compiling them to JavaScript.',
+    type: 'Projects',
+    theme: '~slate',
+    icon: 'speed',
+    href: 'https://forkphorus.github.io',
+    username: 'GarboMuffin'
   }
 ];
 
