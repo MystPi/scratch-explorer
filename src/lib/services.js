@@ -140,7 +140,7 @@ const services = [
     type: 'Community',
     theme: '~blue',
     icon: 'contact_page',
-    href: 'https://jaydendev.github.io/MyScratchPage/',
+    href: 'https://jdev.eu.org/MyScratchPage',
     topic: 590555,
     username: 'MagicCrayon9342'
   },
@@ -153,6 +153,26 @@ const services = [
     href: 'https://cst1229.github.io/project-explorer/',
     topic: 554191,
     username: 'CST1229'
+  },
+  {
+    title: 'Scratch User Info',
+    description: 'Command line tool for getting info about a Scratch user',
+    type: 'Community',
+    theme: '~blue',
+    icon: 'terminal',
+    href: 'https://github.com/Chiroyce1/scratch-user-data/',
+    topic: 542409,
+    username: 'Chiroyce'
+  },
+  {
+    title: 'ScratchConnect',
+    description: 'Python library to connect the Scratch API and perform many more actions.',
+    type: 'Library',
+    theme: '~lime',
+    icon: 'link',
+    href: 'https://github.com/Sid72020123/scratchconnect',
+    topic: 553038,
+    username: 'Sid72020123'
   }
 ];
 
