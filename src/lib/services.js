@@ -153,7 +153,16 @@ const services = [
     href: 'https://cst1229.github.io/project-explorer/',
     topic: 554191,
     username: 'CST1229'
-  }
+  },
+  {
+    title: 'Scratch User Info',
+    description: 'Command line tool for getting info about a Scratch user',
+    type: 'Community',
+    theme: '~blue',
+    icon: 'terminal',
+    href: 'https://github.com/Chiroyce1/scratch-user-data/',
+    topic: 542409,
+    username: 'Chiroyce'
 ];
 
 
