@@ -163,6 +163,7 @@ const services = [
     href: 'https://github.com/Chiroyce1/scratch-user-data/',
     topic: 542409,
     username: 'Chiroyce'
+  }
 ];
 
 
