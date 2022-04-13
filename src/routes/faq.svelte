@@ -20,13 +20,13 @@
   <pre>[quote]
 [b]Service &lt;Addition / Edit&gt; Request[/b]
 [b]Name:[/b] &lt;name of service&gt;
-[b]For:[/b] &lt;forums, library, community, etc.&gt;
-[b]Theme color:[/b] &lt;Tailwind CSS color name, eg. "violet" (<a href="https://tailwindcss.com/docs/customizing-colors">list</a>)&gt;
-[b]Description:[/b] &lt;description&gt;
-[b]Icon:[/b] &lt;icon ID, eg. "settings_suggest" (<a href="https://fonts.google.com/icons?icon.style=Rounded">list</a>)&gt;
-[b]Forum topic (optional):[/b] &lt;forum topic number&gt;
 [b]Username:[/b] &lt;your Scratch username&gt;
+[b]Description:[/b] &lt;description&gt;
 [b]Link:[/b] &lt;link to the site&gt;
+[b]For:[/b] &lt;forums, library, community, etc.&gt;
+[b]Forum topic (optional):[/b] &lt;forum topic number&gt;
+[b]Theme color:[/b] &lt;Tailwind CSS color name, eg. "violet" (<a href="https://tailwindcss.com/docs/customizing-colors">list</a>)&gt;
+[b]Icon:[/b] &lt;icon ID, eg. "settings_suggest" (<a href="https://fonts.google.com/icons?icon.style=Rounded">list</a>)&gt;
 [/quote]</pre>
 </div>
 
