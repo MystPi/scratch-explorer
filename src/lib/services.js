@@ -190,6 +190,7 @@ const services = [
     theme: '~sky',
     icon: 'graphic_eq',
     href: 'https://visualize.eu.org/',
+    topic: 596951,
     username: 'PoIygon'
   },
   {
@@ -199,6 +200,7 @@ const services = [
     theme: '~yellow',
     icon: 'link',
     href: 'https://webdev03.github.io/meowclient/',
+    topic: 574321,
     username: 'god286'
   }
 ];
