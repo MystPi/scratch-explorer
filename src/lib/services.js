@@ -182,6 +182,24 @@ const services = [
     icon: 'speed',
     href: 'https://forkphorus.github.io',
     username: 'GarboMuffin'
+  },
+  {
+    title: 'Visualize',
+    description: 'Visualize is the website you can rely on when getting information about Scratch studios like how many followers a studio has or the description of what the studio is',
+    type: 'Studios',
+    theme: '~sky',
+    icon: 'graphic_eq',
+    href: 'https://visualize.eu.org/',
+    username: 'PoIygon'
+  },
+  {
+    title: 'meowclient',
+    description: 'Library for connecting to Scratch with JavaScript/TypeScript.',
+    type: 'Library',
+    theme: '~yellow',
+    icon: 'link',
+    href: 'https://webdev03.github.io/meowclient/',
+    username: 'god286'
   }
 ];
 
