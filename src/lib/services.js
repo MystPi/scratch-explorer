@@ -202,6 +202,16 @@ const services = [
     href: 'https://webdev03.github.io/meowclient/',
     topic: 574321,
     username: 'god286'
+  },
+  {
+    title: 'Scratch Auth',
+    description: 'Scratch OAuth made easy. It comes with a simple API, is fully customizable, and looks fantastic!',
+    type: 'Community',
+    theme: '~amber',
+    icon: 'login',
+    href: 'https://auth.itinerary.eu.org/',
+    topic: 597434,
+    username: 'Looky1173'
   }
 ];
 
