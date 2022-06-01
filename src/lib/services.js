@@ -212,6 +212,16 @@ const services = [
     href: 'https://auth.itinerary.eu.org/',
     topic: 597434,
     username: 'Looky1173'
+  },
+  {
+    title: 'Scratch Tutorials',
+    description: 'Share your knowledge or learn something new with Scratchers worldwide',
+    type: 'Community',
+    theme: '~amber',
+    icon: 'school',
+    href: 'https://scratchtutorials.vercel.app/',
+    topic: 607432,
+    username: 'NFlex23'
   }
 ];
 
