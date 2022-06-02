@@ -233,6 +233,15 @@ const services = [
     topic: 604367,
     username: 'Steve0Greatness'
   },
+  {
+    title: 'Periscope-Search',
+    description: 'A scratch user stat viewer that doesn\'t use ScratchDB',
+    type: 'Community',
+    theme: '~orange',
+    icon: 'search',
+    href: 'https://periscope-search.github.io',
+    username: 'ISTILLMAKESTUFF'
+  },
 ];
 
 
