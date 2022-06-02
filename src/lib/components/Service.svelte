@@ -17,13 +17,13 @@
     <h2 class="text-xl heading">{title}</h2>
     <p><slot>Explore the latest and greatest Scratch services taking the community by storm.</slot></p>
     {#if username}
-      <p class="support mt-2">Made by <a class="underline" href="https://scratch.mit.edu/users/{username}" target="_blank">{username}</a></p>
+      <p class="support mt-2">Made by <a class="underline" href="https://scratch.mit.edu/users/{username}/" target="_blank">{username}</a></p>
     {/if}
   </div>
   <section class="section flex gap-2 p-4 ~neutral">
     <a {href} target="_blank" class="@high button {theme}">Visit {title}</a>
     {#if topic}
-      <a href="https://scratch.mit.edu/discuss/topic/{topic}" target="_blank" class="button ~neutral">Forum Topic</a>
+      <a href="https://scratch.mit.edu/discuss/topic/{topic}/" target="_blank" class="button ~neutral">Forum Topic</a>
     {/if}
   </section>
 </div>
