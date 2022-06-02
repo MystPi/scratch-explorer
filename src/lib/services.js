@@ -222,7 +222,17 @@ const services = [
     href: 'https://scratchtutorials.vercel.app/',
     topic: 607432,
     username: 'NFlex23'
-  }
+  },
+  {
+    title: 'Personal Stickies',
+    description: 'Save topics to your own profile.',
+    type: 'Forums',
+    theme: '~gray',
+    icon: 'person_pin_circle',
+    href: 'https://personal-stickies.stevesgreatness.repl.co',
+    topic: 604367,
+    username: 'Steve0Greatness'
+  },
 ];
 
 
