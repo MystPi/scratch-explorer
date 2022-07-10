@@ -242,6 +242,26 @@ const services = [
     href: 'https://periscope-search.github.io',
     username: 'ISTILLMAKESTUFF'
   },
+  {
+    title: 'Boiga',
+    description: 'Generate Scratch code using Python',
+    type: 'Library',
+    theme: '~lime',
+    icon: 'auto_fix_normal',
+    href: 'https://github.com/DavidBuchanan314/boiga',
+    topic: 612517,
+    username: 'Retr0id'
+  },
+  {
+    title: 'Gobomatic',
+    description: 'Generate Scratch projects from an Object-Oriented representation of Scratch projects in Python code.',
+    type: 'Library',
+    theme: '~rose',
+    icon: 'flare',
+    href: 'https://github.com/aspizu/gobomatic',
+    topic: 614567,
+    username: 'aspizu'
+  }
 ];
 
 
