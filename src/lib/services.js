@@ -261,7 +261,27 @@ const services = [
     href: 'https://github.com/aspizu/gobomatic',
     topic: 614567,
     username: 'aspizu'
-  }
+  },
+  {
+    title: 'Cloud Viewer',
+    description: 'View cloud data for any Scratch project',
+    type: 'Projects',
+    theme: '~orange',
+    icon: 'cloud',
+    href: 'https://cloud.lindsey.studio/',
+    topic: 616358,
+    username: 'scratchusername40'
+  },
+  {
+    title: 'Forumoji',
+    description: 'Find amazing forum-supported emoticons for any situation.',
+    type: 'Forums',
+    theme: '~blue',
+    icon: 'emoji_emotions',
+    href: 'https://lopste.github.io/forumoji/',
+    topic: 557083,
+    username: 'lolecksdeehaha'
+  },
 ];
 
 
