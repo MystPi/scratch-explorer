@@ -10,23 +10,21 @@
   <h1>Frequently Asked Questions</h1>
   <h2>How do I submit/edit my service?</h2>
   <p>
-    Either create a new
-    <a href="https://github.com/MystPi/scratch-explorer/issues/new?assignees=&labels=&template=service-addition-edit-request.md&title=Service+Addition%2FEdit+Request%3A+%5BNAME%5D">issue</a>
-    on the GitHub repository or leave a post on Scratch Explorer's
-    <a href="https://scratch.mit.edu/discuss/topic/595985/">forum topic</a>. You should use this template for your post:
+    Simply leave a post on Scratch Explorer's
+    <a href="https://scratch.mit.edu/discuss/topic/595985/">forum topic</a> with this template:
     (If you're editing your service, you can leave out any items and they will
     stay as they are.)
   </p>
   <pre>[quote]
-[b]Service &lt;Addition / Edit&gt; Request[/b]
-[b]Name:[/b] &lt;name of service&gt;
-[b]Username:[/b] &lt;your Scratch username&gt;
-[b]Description:[/b] &lt;description&gt;
-[b]Link:[/b] &lt;link to the site&gt;
-[b]For:[/b] &lt;forums, library, community, etc.&gt;
-[b]Forum topic (optional):[/b] &lt;forum topic number&gt;
-[b]Theme color:[/b] &lt;Tailwind CSS color name, eg. "violet" (<a href="https://tailwindcss.com/docs/customizing-colors">list</a>)&gt;
-[b]Icon:[/b] &lt;icon ID, eg. "settings_suggest" (<a href="https://fonts.google.com/icons?icon.style=Rounded">list</a>)&gt;
+[b]Service Request[/b]
+[b]Name:[/b] (name of service)
+[b]Username:[/b] (your Scratch username)
+[b]Description:[/b] (description)
+[b]Link:[/b] (link to the site)
+[b]For:[/b] (forums, projects, studios, library, community, etc.)
+[b]Forum topic (optional):[/b] (forum topic ID)
+[b]Theme color:[/b] (choose a color name from [url=https://tailwindcss.com/docs/customizing-colors]here[/url])
+[b]Icon:[/b] (choose an icon from [url=https://fonts.google.com/icons?icon.style=Rounded&icon.set=Material+Icons]here[/url])
 [/quote]</pre>
 </div>
 
@@ -40,7 +38,7 @@
 </div>
 
 <div class="content">
-  <h2>My site is already on Scratch Explorer and I want to change it!</h2>
+  <h2>My site is already on Scratch Explorer and I want to change it</h2>
   <p>
     Just follow the instructions above to edit your service.
   </p>
