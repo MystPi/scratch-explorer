@@ -18,7 +18,7 @@
   <pre>[quote]
 [b]Service Request[/b]
 [b]Name:[/b] (name of service)
-[b]Username:[/b] (your Scratch username)
+[b]Username:[/b] (Scratch username of the creator)
 [b]Description:[/b] (description)
 [b]Link:[/b] (link to the site)
 [b]For:[/b] (forums, projects, studios, library, community, etc.)
