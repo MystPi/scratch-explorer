@@ -282,6 +282,16 @@ const services = [
     topic: 557083,
     username: 'lolecksdeehaha'
   },
+  {
+    title: 'ScratchGoal',
+    username: 'coderwe2',
+    description: 'Make scratch forum post goals, explore about certain goals.',
+    href: 'https://coderwe1.github.io/ScratchGoal/',
+    type: 'Forums',
+    topic: 617471,
+    theme: '~amber',
+    icon: 'flag_circle'
+  },
 ];
 
 
