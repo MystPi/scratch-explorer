@@ -11,11 +11,20 @@
   <h2>How do I submit/edit my service?</h2>
   <p>
     Simply leave a post on Scratch Explorer's
-    <a href="https://scratch.mit.edu/discuss/topic/595985/">forum topic</a> with the following template.
-    If you're editing your service, you can leave out any items and they will
-    stay as they are. Please make sure to choose your theme color and icon
+    <a href="https://scratch.mit.edu/discuss/topic/595985/">forum topic</a> with
+    the following template. If you're editing your service, you can leave out any
+    items and they will stay as they are. Please make sure to choose your theme
+    color and icon
     <em>from the links given</em>!
   </p>
+  <ul>
+    <li>
+      <a href="https://tailwindcss.com/docs/customizing-colors" target="_blank">Theme color</a>
+    </li>
+    <li>
+      <a href="https://fonts.google.com/icons?icon.style=Rounded&icon.set=Material+Icons" target="_blank">Icon</a>
+    </li>
+  </ul>
   <pre>[quote]
 [b]Service Request[/b]
 [b]Name:[/b] (name of service)
@@ -24,8 +33,8 @@
 [b]Link:[/b] (link to the site)
 [b]For:[/b] (forums, projects, studios, library, community, etc.)
 [b]Forum topic (optional):[/b] (forum topic ID)
-[b]Theme color:[/b] (choose a color name from [url=https://tailwindcss.com/docs/customizing-colors]here[/url])
-[b]Icon:[/b] (choose an icon from [url=https://fonts.google.com/icons?icon.style=Rounded&icon.set=Material+Icons]here[/url])
+[b]Theme color:[/b] (theme color that you chose)
+[b]Icon:[/b] (the name of the icon that you chose)
 [/quote]</pre>
 </div>
 
@@ -45,12 +54,12 @@
   </p>
   <h2>Can I add my library?</h2>
   <p>
-    Yup, just put 'Library' for the 'For' option. A link to its GitHub
-    repository is acceptable for the 'Link' option.
+    Yes, just put 'Library' for the 'For' field. A link to its GitHub repository
+    is recommended for the 'Link' option.
   </p>
   <h2>Do you have to pay for any services?</h2>
   <p>
-    Nope, all of the services on Scratch Explorer are free,
-    and most of them are open source as well.
+    No, all of the services on Scratch Explorer are free, and most of them are
+    open source as well.
   </p>
 </div>
