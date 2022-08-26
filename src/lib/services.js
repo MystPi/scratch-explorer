@@ -126,7 +126,7 @@ const services = [
     username: 'World_Languages'
   },
   {
-    title: 'Turbowarp',
+    title: 'TurboWarp',
     description: 'A Scratch mod that compiles projects to JavaScript to make them run really fast.',
     type: 'Projects',
     theme: '~red',
