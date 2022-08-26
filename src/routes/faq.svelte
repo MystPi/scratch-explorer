@@ -11,9 +11,10 @@
   <h2>How do I submit/edit my service?</h2>
   <p>
     Simply leave a post on Scratch Explorer's
-    <a href="https://scratch.mit.edu/discuss/topic/595985/">forum topic</a> with this template:
-    (If you're editing your service, you can leave out any items and they will
-    stay as they are.)
+    <a href="https://scratch.mit.edu/discuss/topic/595985/">forum topic</a> with the following template.
+    If you're editing your service, you can leave out any items and they will
+    stay as they are. Please make sure to choose your theme color and icon
+    <em>from the links given</em>!
   </p>
   <pre>[quote]
 [b]Service Request[/b]
