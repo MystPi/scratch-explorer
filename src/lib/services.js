@@ -87,16 +87,6 @@ const services = [
     username: 'NFlex23'
   },
   {
-    title: 'ScratchBackup',
-    description: 'Get a small backup of a project that can be opened with the online Scratch editor.',
-    type: 'Projects',
-    theme: '~purple',
-    icon: 'backup',
-    href: 'https://scratchbackup.github.io/',
-    topic: 537796,
-    username: 'ScolderCreations'
-  },
-  {
     title: 'Scratchinfo',
     description: 'A new website to get Scratch information',
     type: 'Community',
