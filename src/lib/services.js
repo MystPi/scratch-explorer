@@ -282,6 +282,15 @@ const services = [
     theme: '~amber',
     icon: 'flag_circle'
   },
+  {
+    title: 'The Daily Gobo',
+    username: 'MaterArc',
+    description: 'The biggest and best moderated blog site for Scratch!',
+    href: 'https://thedailygobo.scratchtools.app/',
+    type: 'Community',
+    theme: '~amber',
+    icon: 'edit_note'
+  },
 ];
 
 
