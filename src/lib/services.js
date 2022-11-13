@@ -6,7 +6,7 @@ const services = [
     icon: 'search',
     href: 'https://ocular.jeffalo.net',
     topic: 446450,
-    username: 'Jeffalo'
+    username: 'Jeffalo',
   },
   {
     title: 'postpercent',
@@ -15,26 +15,28 @@ const services = [
     icon: 'leaderboard',
     href: 'https://postpercent.rirurin.com/',
     topic: 424580,
-    username: 'CatsUnited'
+    username: 'CatsUnited',
   },
   {
     title: 'Aviate',
-    description: 'Create dynamic, component driven statuses on the fly, then use them on Scratch and across the web with Aviate\'s easy to use API.',
+    description:
+      "Create dynamic, component driven statuses on the fly, then use them on Scratch and across the web with Aviate's easy to use API.",
     theme: '~cyan',
     icon: 'send',
     href: 'https://aviateapp.eu.org',
     topic: 594464,
-    username: 'NFlex23'
+    username: 'NFlex23',
   },
   {
     title: 'Itinerary',
-    description: 'Discover and participate in Scratch game jams. Embrace the community.',
+    description:
+      'Discover and participate in Scratch game jams. Embrace the community.',
     type: 'Community',
     theme: '~neutral',
     icon: 'event',
     href: 'https://itinerary.eu.org/',
     topic: 576248,
-    username: 'Looky1173'
+    username: 'Looky1173',
   },
   {
     title: 'Magnifier',
@@ -44,7 +46,7 @@ const services = [
     icon: 'loupe',
     href: 'https://magnifier.potatophant.net/',
     topic: 513823,
-    username: 'potatophant'
+    username: 'potatophant',
   },
   {
     title: 'Scratory',
@@ -54,7 +56,7 @@ const services = [
     icon: 'history',
     href: 'https://scratory.vercel.app/',
     topic: 518860,
-    username: '9gr'
+    username: '9gr',
   },
   {
     title: 'tosh',
@@ -64,17 +66,18 @@ const services = [
     icon: 'code',
     href: 'https://tosh.blob.codes/',
     topic: 192915,
-    username: 'blob8108'
+    username: 'blob8108',
   },
   {
     title: 'Leopard',
-    description: 'Convert Scratch projects to readable JavaScript automatically!',
+    description:
+      'Convert Scratch projects to readable JavaScript automatically!',
     type: 'Projects',
     theme: '~indigo',
     icon: 'javascript',
     href: 'https://leopardjs.com/',
     topic: 420162,
-    username: 'PullJosh'
+    username: 'PullJosh',
   },
   {
     title: 'Scratch Profiler',
@@ -84,7 +87,7 @@ const services = [
     icon: 'person',
     href: 'https://scratchprofiler.vercel.app/',
     topic: 534440,
-    username: 'NFlex23'
+    username: 'NFlex23',
   },
   {
     title: 'Scratchinfo',
@@ -94,7 +97,7 @@ const services = [
     icon: 'info',
     href: 'https://scratchinfo.vercel.app/',
     topic: 549251,
-    username: 'god286'
+    username: 'god286',
   },
   {
     title: 'ScratchTester',
@@ -104,7 +107,7 @@ const services = [
     icon: 'bug_report',
     href: 'https://scratchtester-v2.kccuber.repl.co/',
     topic: 554264,
-    username: 'kccuber'
+    username: 'kccuber',
   },
   {
     title: 'ScratchStats',
@@ -113,26 +116,28 @@ const services = [
     theme: '~blue',
     icon: 'trending_up',
     href: 'https://scratchstats.com/',
-    username: 'World_Languages'
+    username: 'World_Languages',
   },
   {
     title: 'TurboWarp',
-    description: 'A Scratch mod that compiles projects to JavaScript to make them run really fast.',
+    description:
+      'A Scratch mod that compiles projects to JavaScript to make them run really fast.',
     type: 'Projects',
     theme: '~red',
     icon: 'speed',
     href: 'https://turbowarp.org/',
-    username: 'GarboMuffin'
+    username: 'GarboMuffin',
   },
   {
     title: 'MyScratchPage',
-    description: 'Statistics such as the topic you post in least and most. Totals, MOTDs, colors, and more.',
+    description:
+      'Statistics such as the topic you post in least and most. Totals, MOTDs, colors, and more.',
     type: 'Community',
     theme: '~blue',
     icon: 'contact_page',
     href: 'https://jdev.eu.org/MyScratchPage',
     topic: 590555,
-    username: 'MagicCrayon9342'
+    username: 'MagicCrayon9342',
   },
   {
     title: 'Project Explorer',
@@ -142,7 +147,7 @@ const services = [
     icon: 'workspaces',
     href: 'https://cst1229.github.io/project-explorer/',
     topic: 554191,
-    username: 'CST1229'
+    username: 'CST1229',
   },
   {
     title: 'Scratch User Info',
@@ -152,66 +157,72 @@ const services = [
     icon: 'terminal',
     href: 'https://github.com/Chiroyce1/scratch-user-data/',
     topic: 542409,
-    username: 'Chiroyce'
+    username: 'Chiroyce',
   },
   {
     title: 'ScratchConnect',
-    description: 'Python library to connect the Scratch API and perform many more actions.',
+    description:
+      'Python library to connect the Scratch API and perform many more actions.',
     type: 'Library',
     theme: '~lime',
     icon: 'link',
     href: 'https://github.com/Sid72020123/scratchconnect',
     topic: 553038,
-    username: 'Sid72020123'
+    username: 'Sid72020123',
   },
   {
     title: 'Forkphorus',
-    description: 'Run Scratch 3, 2, and 1 projects really fast by compiling them to JavaScript.',
+    description:
+      'Run Scratch 3, 2, and 1 projects really fast by compiling them to JavaScript.',
     type: 'Projects',
     theme: '~slate',
     icon: 'speed',
     href: 'https://forkphorus.github.io',
-    username: 'GarboMuffin'
+    username: 'GarboMuffin',
   },
   {
     title: 'Visualize',
-    description: 'Visualize is the website you can rely on when getting information about Scratch studios like how many followers a studio has or the description of what the studio is',
+    description:
+      'Visualize is the website you can rely on when getting information about Scratch studios like how many followers a studio has or the description of what the studio is',
     type: 'Studios',
     theme: '~sky',
     icon: 'graphic_eq',
     href: 'https://visualize.eu.org/',
     topic: 596951,
-    username: 'PoIygon'
+    username: 'PoIygon',
   },
   {
     title: 'meowclient',
-    description: 'Library for connecting to Scratch with JavaScript/TypeScript.',
+    description:
+      'Library for connecting to Scratch with JavaScript/TypeScript.',
     type: 'Library',
     theme: '~yellow',
     icon: 'link',
     href: 'https://webdev03.github.io/meowclient/',
     topic: 574321,
-    username: 'god286'
+    username: 'god286',
   },
   {
     title: 'Scratch Auth',
-    description: 'Scratch OAuth made easy. It comes with a simple API, is fully customizable, and looks fantastic!',
+    description:
+      'Scratch OAuth made easy. It comes with a simple API, is fully customizable, and looks fantastic!',
     type: 'Community',
     theme: '~amber',
     icon: 'login',
     href: 'https://auth.itinerary.eu.org/',
     topic: 597434,
-    username: 'Looky1173'
+    username: 'Looky1173',
   },
   {
     title: 'Scratch Tutorials',
-    description: 'Share your knowledge or learn something new with Scratchers worldwide',
+    description:
+      'Share your knowledge or learn something new with Scratchers worldwide',
     type: 'Community',
     theme: '~amber',
     icon: 'school',
     href: 'https://scratchtutorials.vercel.app/',
     topic: 607432,
-    username: 'NFlex23'
+    username: 'NFlex23',
   },
   {
     title: 'Personal Stickies',
@@ -221,16 +232,16 @@ const services = [
     icon: 'person_pin_circle',
     href: 'https://personal-stickies.stevesgreatness.repl.co',
     topic: 604367,
-    username: 'Steve0Greatness'
+    username: 'Steve0Greatness',
   },
   {
     title: 'Periscope-Search',
-    description: 'A scratch user stat viewer that doesn\'t use ScratchDB',
+    description: "A scratch user stat viewer that doesn't use ScratchDB",
     type: 'Community',
     theme: '~orange',
     icon: 'search',
     href: 'https://periscope-search.github.io',
-    username: 'ISTILLMAKESTUFF'
+    username: 'ISTILLMAKESTUFF',
   },
   {
     title: 'Boiga',
@@ -240,17 +251,18 @@ const services = [
     icon: 'auto_fix_normal',
     href: 'https://github.com/DavidBuchanan314/boiga',
     topic: 612517,
-    username: 'Retr0id'
+    username: 'Retr0id',
   },
   {
     title: 'Gobomatic',
-    description: 'Generate Scratch projects from an Object-Oriented representation of Scratch projects in Python code.',
+    description:
+      'Generate Scratch projects from an Object-Oriented representation of Scratch projects in Python code.',
     type: 'Library',
     theme: '~rose',
     icon: 'flare',
     href: 'https://github.com/aspizu/gobomatic',
     topic: 614567,
-    username: 'aspizu'
+    username: 'aspizu',
   },
   {
     title: 'Cloud Viewer',
@@ -260,7 +272,7 @@ const services = [
     icon: 'cloud',
     href: 'https://cloud.lindsey.studio/',
     topic: 616358,
-    username: 'scratchusername40'
+    username: 'scratchusername40',
   },
   {
     title: 'Forumoji',
@@ -270,7 +282,7 @@ const services = [
     icon: 'emoji_emotions',
     href: 'https://lopste.github.io/forumoji/',
     topic: 557083,
-    username: 'lolecksdeehaha'
+    username: 'lolecksdeehaha',
   },
   {
     title: 'ScratchGoal',
@@ -280,19 +292,18 @@ const services = [
     type: 'Forums',
     topic: 617471,
     theme: '~amber',
-    icon: 'flag_circle'
+    icon: 'flag_circle',
   },
   {
     title: 'The Daily Gobo',
-    username: 'MaterArc',
+    username: ['MaterArc', 'rgantzos'],
     description: 'The biggest and best moderated blog site for Scratch!',
     href: 'https://thedailygobo.scratchtools.app/',
     type: 'Community',
     theme: '~amber',
-    icon: 'edit_note'
+    icon: 'edit_note',
   },
 ];
-
 
 function sortAlphabetically(services) {
   return services.sort((a, b) => {
@@ -302,13 +313,12 @@ function sortAlphabetically(services) {
   });
 }
 
-
 function sortIntoCategories(services) {
   services = sortAlphabetically(services);
 
   const categories = {};
 
-  services.forEach(service => {
+  services.forEach((service) => {
     const firstLetter = service.title.charAt(0).toLowerCase();
     if (!categories[firstLetter]) categories[firstLetter] = [];
     categories[firstLetter].push(service);
@@ -316,6 +326,5 @@ function sortIntoCategories(services) {
 
   return categories;
 }
-
 
 export const categories = sortIntoCategories(services);
