@@ -126,6 +126,7 @@ const services = [
     theme: '~red',
     icon: 'speed',
     href: 'https://turbowarp.org/',
+    topic: 641251,
     username: 'GarboMuffin',
   },
   {
