@@ -304,6 +304,16 @@ const services = [
     theme: '~amber',
     icon: 'edit_note',
   },
+  {
+    title: 'Commenstudio',
+    username: 'mybearworld',
+    description: 'Organizes all studio comments in one place - mark them as read and pin them so you can be sure you\'ll see them all.',
+    href: 'https://mybearworld.github.io/commenstudio',
+    type: 'Studios',
+    topic: 717430,
+    theme: '~sky',
+    icon: 'chat',
+  },
 ];
 
 function sortAlphabetically(services) {
